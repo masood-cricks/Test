@@ -1,2 +1,3 @@
 Its first line --> branch1     
 Its first line  --> branch2
+Changed from branch 1
