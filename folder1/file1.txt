@@ -2,3 +2,4 @@ Its first line --> branch1
 Its first line  --> branch2
 Changed from branch 2
 Ive written in branch1
+Ive written this in github branch 1 
